@@ -1,11 +1,20 @@
 body {
-  font-family: Georgia, times, serif;
-  background-color: #c6c;
+  font-family: Verdana, sans-serif;
+  color: #333;
+  background-color: #c9c;
 }
 
 .wrapper {
   width: 800px;
   background-color: #eee;
+  padding: 15px;
   margin: 10px auto;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+
+h1 {
+  font-size: 250%;
+  color: #f3c;
 }
 
