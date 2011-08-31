@@ -15,6 +15,11 @@ body {
 
 h1 {
   font-size: 250%;
-  color: #f3c;
+  color: #66c;
+}
+
+img {
+  float: right;
+  margin: 0 0 15px 15px;
 }
 
