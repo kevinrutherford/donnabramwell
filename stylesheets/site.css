@@ -1,4 +1,11 @@
 body {
   font-family: Georgia, times, serif;
+  background-color: #c6c;
+}
+
+.wrapper {
+  width: 800px;
+  background-color: #eee;
+  margin: 10px auto;
 }
 
