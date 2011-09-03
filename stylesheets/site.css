@@ -3,6 +3,7 @@ body {
   font-size: 11pt;
   color: #333;
   background: url(../images/main-background.png);
+  background-repeat: none;
   background-color: #c9c;
 }
 
