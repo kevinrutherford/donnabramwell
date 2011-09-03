@@ -25,6 +25,15 @@ strong { font-weight: bold; }
   margin: 0;
   float: left;
 }
+  .sidebar a {
+    display: block;
+    width: 100%;
+    background-color: #eee;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    font-size: 150%;
+  }
 
 .mast, .contact, .letter {
   background-color: #eee;
