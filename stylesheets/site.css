@@ -47,6 +47,7 @@ body {
   float: left;
   margin: 0 0 30px 20px;
   width: 576px;
+  line-height: 1.1em;
 }
   .letter p {
     margin-bottom: 10px;
