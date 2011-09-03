@@ -44,11 +44,17 @@ body {
   padding: 25px;
   float: left;
   margin: 0 0 30px 20px;
-  width: 590px;
+  width: 580px;
 }
   .letter p {
     margin-bottom: 10px;
     text-align: justify;
+  }
+  .letter h2 {
+    color: #66c;
+    font-size: 125%;
+    padding: 20px;
+    text-align: center;
   }
 
 .download {
