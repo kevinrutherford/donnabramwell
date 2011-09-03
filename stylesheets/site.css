@@ -60,7 +60,9 @@ body {
 .letter img {
   width: 95px;
   float: right;
-  margin: 0 0 15px 15px;
+  margin: 0 0 25px 25px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
   border: 1px dotted #999;
 }
 
