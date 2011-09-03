@@ -57,17 +57,11 @@ body {
     text-align: center;
   }
 
-.download {
-  width: 100px;
-  float: right:
-  margin: 15px 0 15px 15px;
-  -moz-border-radius: 6px;
-  border-radius: 6px;
-  border: 1px dotted #999;
-}
 .letter img {
   width: 95px;
   float: right;
+  margin: 0 0 15px 15px;
+  border: 1px dotted #999;
 }
 
 .copyright {
