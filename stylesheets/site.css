@@ -1,18 +1,19 @@
 body {
   font-family: Verdana, sans-serif;
+  font-size: 14pt;
   color: #333;
   background-color: #c9c;
 }
 
 .wrapper {
   width: 800px;
-  margin: 10px auto;
+  margin: 20px auto;
 }
 
 .mast {
 }
   .mast h1 {
-    margin: 15px;
+    padding: 15px;
     font-size: 250%;
     color: #66c;
   }
@@ -23,19 +24,16 @@ body {
   float: left;
 }
 
-.mast, .photo, .contact, .letter {
+.mast, .contact, .letter {
   background-color: #eee;
   -moz-border-radius: 8px;
   border-radius: 8px;
 }
 
-.photo {
-  width: 150px;
+.sidebar img {
+  margin: 0 0 20px 0;
+  width: 100%;
 }
-  .photo img {
-    margin: 0;
-    width: 100%;
-  }
 
 .contact {
   width: 150px;
@@ -45,23 +43,26 @@ body {
 .letter {
   padding: 15px;
   float: left;
-  margin-left: 15px;
+  margin-left: 20px;
   width: 600px;
 }
   .letter p {
     margin-bottom: 10px;
+    text-align: justify;
   }
-  .letter .download {
-    width: 100px;
-    float: right:
-    margin: 15px 0 15px 15px;
-    -moz-border-radius: 6px;
-    border-radius: 6px;
-    border: 1px dotted #999;
-  }
-  .download img {
-    width: 95%;
-  }
+
+.download {
+  width: 100px;
+  float: right:
+  margin: 15px 0 15px 15px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px dotted #999;
+}
+.download img {
+  width: 95%;
+  margin: 0 auto;
+}
 
 /* Clearfix /////////////////*/
 
