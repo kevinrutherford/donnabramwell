@@ -52,8 +52,15 @@ body {
     margin-bottom: 10px;
   }
   .letter .download {
+    width: 100px;
     float: right:
     margin: 15px 0 15px 15px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    border: 1px dotted #999;
+  }
+  .download img {
+    width: 95%;
   }
 
 /* Clearfix /////////////////*/
