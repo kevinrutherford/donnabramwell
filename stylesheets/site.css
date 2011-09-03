@@ -20,7 +20,7 @@ h1 {
   float: left;
 }
 
-.photo, .contact, .letter {
+.mast, .photo, .contact, .letter {
   background-color: #eee;
   -moz-border-radius: 8px;
   border-radius: 8px;
