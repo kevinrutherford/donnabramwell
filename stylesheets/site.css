@@ -14,9 +14,12 @@ h1 {
   color: #66c;
 }
 
+.sidebar {
+  width: 150px;
+}
+
 .photo, .contact, .letter {
   background-color: #eee;
-  float: left;
   -moz-border-radius: 8px;
   border-radius: 8px;
 }
@@ -35,6 +38,8 @@ h1 {
 
 .letter {
   padding: 15px;
+  float: left;
+  margin-left: 15px;
 }
 
 /* Clearfix /////////////////*/
