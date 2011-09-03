@@ -9,10 +9,13 @@ body {
   margin: 10px auto;
 }
 
-h1 {
-  font-size: 250%;
-  color: #66c;
+.mast {
 }
+  .mast h1 {
+    margin: 15px;
+    font-size: 250%;
+    color: #66c;
+  }
 
 .sidebar {
   width: 150px;
@@ -43,7 +46,7 @@ h1 {
   padding: 15px;
   float: left;
   margin-left: 15px;
-  width: 634px;
+  width: 600px;
 }
   .letter p {
     margin-bottom: 10px;
