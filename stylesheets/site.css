@@ -6,11 +6,7 @@ body {
 
 .wrapper {
   width: 800px;
-  background-color: #eee;
-  padding: 15px;
   margin: 10px auto;
-  -moz-border-radius: 8px;
-  border-radius: 8px;
 }
 
 h1 {
@@ -18,9 +14,27 @@ h1 {
   color: #66c;
 }
 
-img {
-  float: right;
-  margin: 0 0 15px 15px;
+.photo, .contact, .letter {
+  background-color: #eee;
+  float: left;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+
+.photo {
+  width: 150px;
+}
+  .photo img {
+    margin: 0;
+    width: 100%;
+  }
+
+.contact {
+  width: 150px;
+}
+
+.letter {
+  padding: 15px;
 }
 
 /* Clearfix /////////////////*/
