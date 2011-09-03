@@ -51,6 +51,10 @@ body {
   .letter p {
     margin-bottom: 10px;
   }
+  .letter .download {
+    float: right:
+    margin: 15px 0 15px 15px;
+  }
 
 /* Clearfix /////////////////*/
 
