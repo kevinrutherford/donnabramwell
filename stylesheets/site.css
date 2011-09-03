@@ -16,6 +16,7 @@ h1 {
 
 .sidebar {
   width: 150px;
+  float: left;
 }
 
 .photo, .contact, .letter {
