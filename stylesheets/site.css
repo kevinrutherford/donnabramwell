@@ -36,6 +36,7 @@ strong { font-weight: bold; }
     padding: 10px 0;
     text-align: center;
     color: #333;
+    text-decoration: none;
   }
 
 .mast, .contact, .letter {
