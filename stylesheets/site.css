@@ -35,6 +35,7 @@ h1 {
 
 .contact {
   width: 150px;
+  margin-top: 15px;
 }
 
 .letter {
@@ -42,6 +43,9 @@ h1 {
   float: left;
   margin-left: 15px;
 }
+  .letter p {
+    margin-bottom: 10px;
+  }
 
 /* Clearfix /////////////////*/
 
