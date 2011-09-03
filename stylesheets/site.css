@@ -28,7 +28,7 @@ body {
   background-color: #eee;
   -moz-border-radius: 8px;
   border-radius: 8px;
-  border: 2px solid #999;
+  border: 2px solid #ccc;
 }
 
 .sidebar img {
@@ -45,7 +45,7 @@ body {
   padding: 25px;
   float: left;
   margin: 0 0 30px 20px;
-  width: 580px;
+  width: 576px;
 }
   .letter p {
     margin-bottom: 10px;
