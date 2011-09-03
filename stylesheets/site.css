@@ -5,6 +5,8 @@ body {
   background-color: #c9c;
 }
 
+strong { font-weight: bold; }
+
 .wrapper {
   width: 800px;
   margin: 20px auto;
