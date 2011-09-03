@@ -65,9 +65,13 @@ body {
   border-radius: 6px;
   border: 1px dotted #999;
 }
-.download img {
-  width: 95%;
-  margin: 0 auto;
+.letter img {
+  width: 95px;
+  align: right;
+}
+
+.copyright {
+  text-align: right;
 }
 
 /* Clearfix /////////////////*/
