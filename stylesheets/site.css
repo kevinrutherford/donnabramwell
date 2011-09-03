@@ -1,5 +1,5 @@
 body {
-  font-family: Verdana, sans-serif;
+  font-family: Lucida Grande, Lucida Sans, Trebuchet MS, Arial, Verdana, sans-serif;
   font-size: 11pt;
   color: #333;
   background-color: #c9c;
@@ -34,6 +34,7 @@ body {
 .sidebar img {
   margin: 0 0 20px 0;
   width: 100%;
+  border: 2px solid #ccc;
 }
 
 .contact {
