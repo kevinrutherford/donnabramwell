@@ -38,17 +38,18 @@ strong { font-weight: bold; }
     color: #333;
     text-decoration: none;
   }
+  .sidebar img {
+    margin: 0 0 20px 0;
+    width: 100%;
+    border: 2px solid #ccc;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+  }
 
 .mast, .contact, .letter {
   background-color: #eee;
   -moz-border-radius: 8px;
   border-radius: 8px;
-  border: 2px solid #ccc;
-}
-
-.sidebar img {
-  margin: 0 0 20px 0;
-  width: 100%;
   border: 2px solid #ccc;
 }
 
